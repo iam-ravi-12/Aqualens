@@ -1,0 +1,26 @@
+0 Tomato
+1 Turnip
+2 Watermelon
+3 Sweet Corn
+4 Spinach
+5 Pineapple
+6 Potato
+7 Peas
+8 Lettuce
+9 Mango
+10 Onion
+11 Jalepeno
+12 Garlic
+13 Ginger
+14 Grapes
+15 Cucumber
+16 Brinjal
+17 Corn
+18 Capsicum
+19 Carrot
+20 Cauliflower
+21 Cabbage
+22 Apple
+23 Banana
+24 Beetroot
+25 Strawberry
