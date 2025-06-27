@@ -1,1 +1,1 @@
-# Aqualens
+# Aqualens app- an app to detect the water footprint of any food items.
