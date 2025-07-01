@@ -9,8 +9,11 @@ Aqualens is a Dart-based project with no provided description.
 
 ## Key Features
 
-- Dart-based project
-- No specific tags or topics provided
+- An app which scan the food products
+- Use tensorflow to detect the food product
+- Find the waterfoot print of that products on region based.
+- It is a dart-based project
+
 
 ## Installation
 
