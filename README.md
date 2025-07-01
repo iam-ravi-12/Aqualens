@@ -69,5 +69,14 @@ If you would like to contribute to Aqualens, please follow these guidelines.
 4. Submit a pull request
 
 ## License
-
 Aqualens is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Contributors
+People who worked at this project:-
+
+1. [Ravi Ranjan Kumar](https://github.com/iam-ravi-12)
+2. [Monami Rana](https://github.com/monami-rana03)
+3. [Sanchari Roy](https://github.com/sanchariroy03)
+4. [Huzaifa Luqmani](https://github.com/huzaifa13-web)
+5. Parthojit Das
+6. Ankush
